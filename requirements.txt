@@ -10,11 +10,11 @@ PyMuPDF
 python-dotenv
 openai
 google-auth==2.38.0
-google-genai==1.9.0
-google-generativeai
+google-generativeai==1.9.0
 huggingface-hub
-sentence-transformers
+sentence-transformers[cpu]
 faiss-cpu
 tqdm
 langchain>=0.1.14
 langchain-community
+
