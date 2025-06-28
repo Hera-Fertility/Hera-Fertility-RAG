@@ -1,0 +1,4 @@
+# Environment variables and keys
+.env
+*.env
+*.pem
