@@ -17,4 +17,5 @@ faiss-cpu
 tqdm
 langchain>=0.1.14
 langchain-community
+gunicorn
 
